@@ -50,6 +50,9 @@ print(Fore.GREEN + '''
 input(Fore.RED + "Нажмине Enter>>")
 clear()
 
+input(Fore.RED + "ЗА ЕТО РОЗРОБОЧИК НЕ НЕСЁТ ОТВЕТСТВЕННОСТИ, ВЕСЬ СТРАХ И РИСК НА ВАШИХ РУКАХ!!\nНажмине Enter>>")
+clear()
+
 print(Fore.MAGENTA + '''
 ЕТО ''' + Fore.RED + '''
 создание ботов, удачки <3
